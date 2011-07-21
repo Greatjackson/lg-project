@@ -1,6 +1,15 @@
 #include<stdio.h>
-int main ()
+
+int main(int argc, const char *argv[])
+
+	
+
 {
-	printf("hello!\n");
+
+	for (i=0;i<9;i++)
+	{
+	printf ("hello!\n");
+	}	
 	return 0;
-} 
+}
+
