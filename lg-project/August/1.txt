@@ -1,1 +1,2 @@
-this is a programe
+3    zhang
+6    tan
